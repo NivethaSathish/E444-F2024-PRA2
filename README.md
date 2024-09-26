@@ -1,2 +1,0 @@
-# E444-F2024-PRA2
-ECE444 Practical 2
